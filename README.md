@@ -41,9 +41,13 @@
     14. The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
     15. The following image shows this campaign DataFrame:
           ### Campaign DataFrame
-           ![Alt text](/Images/Campaign_Db1.png.png)
+           ![Alt text](/Images/Campaign_Db_1.png)
+            
+           ![Alt text](/Images/Campaign_Db_2.png)
 
 2. Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
+   ### Export CSV Code
+    ![Alt text](/Images/Campaign_Db_CSV.png)
 
 ## Part -3 :- Create the Contacts DataFrame (WE chose the Option 1)
 1. Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
@@ -59,8 +63,12 @@
     4. Create a new DataFrame that contains the extracted data.
     5. Split each "name" column value into a first and last name, and place each in a new column.
     6. Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
+        ### Export CSV Code
+        ![Alt text](/Images/contact_csv.png)
 
 3. Check that your final DataFrame resembles the one in the following image:
+    ### Contact Dataframe
+    ![Alt text](/Images/contact_info.png)
 
 ## Part -4 :- Create the Crowdfunding Database
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD
