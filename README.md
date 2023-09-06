@@ -82,5 +82,14 @@
 6. Verify the table creation by running a SELECT statement for each table.
 7. Import each CSV file into its corresponding SQL table.
 8. Verify that each table has the correct data by running a SELECT statement for each.
-      
+
+## Select Query Results
+1. Select Category Query Result
+2. ![Alt text](/Images/Select_Category.png)
+3. Select Sub_Category Query Result
+. ![Alt text](/Images/Select_Subcategory.png)
+5. Select Contact Query Result
+. ![Alt text](/Images/Select_Contacts.png)
+7. Select Campaign Query Result
+. ![Alt text](/Images/Select_Campaign.png)
    
