@@ -52,6 +52,9 @@
 
 ## Part -4 :- Create the Crowdfunding Database
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD
+
+    ### ERD Diagram
+    ![Alt text](Crowdfunding_ERD.png)
 2. Use the information from the ERD to create a table schema for each CSV file.
 3. Save the database schema as a Postgres file named crowdfunding_db_schema.sql, and save it to your GitHub repository.
 4. Create a new Postgres database, named crowdfunding_db.
