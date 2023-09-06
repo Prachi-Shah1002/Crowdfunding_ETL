@@ -4,14 +4,24 @@
     1. A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
     2. A "category" column that contains only the category titles
     3. The following image shows this category DataFrame:
+        ### Category DataFrame
+        ![Alt text](/Images/Catgory_df.png)
 
 2. Export the category DataFrame as category.csv and save it to your GitHub repository.
-3. Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
+    ### Export CSV Code
+    ![Alt text](/Images/category_csv.png)
+
+4. Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
    1. A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
    2. A "subcategory" column that contains only the subcategory titles
    3. The following image shows this subcategory DataFrame:
+        ### Sub_Category DataFrame
+        ![Alt text](/Images/Subcategory_df.png)
 
-4. Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
+5. Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
+    ### Export CSV Code
+    ![Alt text](/Images/Subcategory_csv.png)
+
 
 ## Part -2 :- Create the Campaign DataFrame
 1. Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
@@ -30,6 +40,8 @@
     13. The "category_id" column, with unique identification numbers matching those in the "category_id" column of the category DataFrame
     14. The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
     15. The following image shows this campaign DataFrame:
+          ### Campaign DataFrame
+           ![Alt text](/Images/Campaign_Db1.png.png)
 
 2. Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
